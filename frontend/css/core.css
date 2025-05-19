@@ -1,0 +1,27 @@
+
+:root{
+    --color-synPink: #FF4AEE;
+    --color-synYellow: #FFFF1F;
+    --color-synBlue: #1BFBF8;
+    --color-light: #fff;
+    --color-synDark: #0B080C;
+
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+html{
+    scroll-behavior: smooth;
+    font-size: 62.5%;
+}
+
+body{
+    background-image: url(../img/Loginbg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
